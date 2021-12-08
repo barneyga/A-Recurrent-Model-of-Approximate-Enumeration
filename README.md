@@ -3,7 +3,7 @@ Stanford CS238 Final Project
 
 Authors: Griffin Young & Gabe Barney
 
-Our code began as a fork from:
+Our code began as a clone from:
 https://github.com/kevinzakka/recurrent-visual-attention
 
 Contact us for access to the datasets.
